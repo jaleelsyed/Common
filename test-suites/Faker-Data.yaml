@@ -7,7 +7,7 @@ type: DATASET
 
 publishToMarketplace: true
 
-description: Faker library that generates fake data. Inject using Faker.type.property  ex: Faker.name.fullName.
+description: English name dataset. Inject using '.firstname' & '.lastname' properties.
 
 tags:
   - DATASET
