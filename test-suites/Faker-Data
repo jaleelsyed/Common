@@ -1,0 +1,13 @@
+---
+
+authors:
+  - Mohammed Luqman Shareef
+
+type: DATASET
+
+publishToMarketplace: true
+
+description: Faker library that generates fake data. Inject using Faker.type.property  ex: Faker.name.fullName.
+
+tags:
+  - DATASET
